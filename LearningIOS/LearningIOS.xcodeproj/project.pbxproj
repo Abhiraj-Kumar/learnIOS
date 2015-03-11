@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		6B00709F1AB024640009806B /* card.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = card.h; sourceTree = "<group>"; };
+		6B0070A01AB024640009806B /* card.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = card.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		6B0070981AB0241B0009806B = {
+			isa = PBXGroup;
+			children = (
+				6B00709F1AB024640009806B /* card.h */,
+				6B0070A01AB024640009806B /* card.m */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		6B0070991AB0241B0009806B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+			};
+			buildConfigurationList = 6B00709C1AB0241D0009806B /* Build configuration list for PBXProject "LearningIOS" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 6B0070981AB0241B0009806B;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		6B00709D1AB0241D0009806B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		6B00709E1AB0241D0009806B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6B00709C1AB0241D0009806B /* Build configuration list for PBXProject "LearningIOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6B00709D1AB0241D0009806B /* Debug */,
+				6B00709E1AB0241D0009806B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6B0070991AB0241B0009806B /* Project object */;
+}
